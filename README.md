@@ -50,7 +50,7 @@ Hold to speed in Shorts will result in a crash;
 
 * Fixing whatever other issues might come down the road!
 
-# important things:
+# Important things:
 
 THIS TWEAK WILL ALWAYS BE FREE! I'LL NEVER LOCK IT BEHIND A PAYWALL LIKE dayanch96 DID.
 
