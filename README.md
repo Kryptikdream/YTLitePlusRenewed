@@ -44,7 +44,7 @@ Hold to speed in Shorts will result in a crash;
 
 * Bring back old MiniPlayer like someone on reddit requested me.
 
-* adding an OLED theme.
+* add an OLED theme.
 
 * add the option to download videos, Shorts and sound.......
 
