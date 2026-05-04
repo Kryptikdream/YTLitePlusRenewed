@@ -1,6 +1,6 @@
 # YTLitePlusRenewed
 
-An very nice ios Youtube tweak, that brings customization to the Youtube app.
+An very nice iOS Youtube tweak, that brings many useful youtube tweaks to the Youtube app.
 
 It was very hard to build, but I do all this work for everyone!
 
