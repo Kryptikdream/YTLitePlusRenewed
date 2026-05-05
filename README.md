@@ -56,7 +56,7 @@ THIS TWEAK WILL ALWAYS BE FREE! I'LL NEVER LOCK IT BEHIND A PAYWALL LIKE dayanch
 
 My work is FREE. I built this with ❤️ and passion for people to use it with pure trust! I don't need any contribution from anyone! Just the fact that you are using my Youtube tweak and you are happy is more than enough for me.
 
-Please make a github isuue if you encounter any kind of issue within using my tweak!
+Please make a github issue if you encounter any kind of issue within using my tweak!
 
 
 
