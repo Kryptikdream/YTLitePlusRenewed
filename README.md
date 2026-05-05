@@ -1,6 +1,6 @@
 # YTLitePlusRenewed
 
-An very nice iOS Youtube tweak, that brings many useful youtube tweaks to the Youtube app.
+A very nice iOS Youtube tweak, that brings many useful youtube tweaks to the Youtube app.
 
 It was very hard to build, but I do all this work for everyone!
 
@@ -18,7 +18,7 @@ YTUHD;
 
 YouPiP;
 
-An Ad blocker dylib to get rid of the annoying ads!
+An adblocker dylib to get rid of the annoying ads!
 
 Video overlay.
 
