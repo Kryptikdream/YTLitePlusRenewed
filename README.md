@@ -42,8 +42,6 @@ Hold to speed in Shorts will result in a crash;
 
 * Making a tweak named YouCast, that is going to fix casting!
 
-* Bring back old MiniPlayer like someone on reddit requested me.
-
 * add an OLED theme.
 
 * add the option to download videos, Shorts and sound.......
