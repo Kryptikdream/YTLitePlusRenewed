@@ -38,7 +38,7 @@ Hold to speed in Shorts will result in a crash;
 
 # TO DO LIST:
 
-* Adding smth VERY COOL with feature releses........
+* Adding smth VERY COOL with future releses........
 
 * Making a tweak named YouCast, that is going to fix casting!
 
