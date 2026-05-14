@@ -57,6 +57,11 @@ My work is FREE. I built this with ❤️ and passion for people to use it with 
 Please make a github issue if you encounter any kind of issue within using my tweak!
 
 
+# Special Thanks
+
+Special thanks to PoomSmart, dayanch96 and all the devs who created the tweaks i have already implemented and will implement!
+
+
 
 
 
