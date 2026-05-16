@@ -36,6 +36,8 @@ YouSpeed.
 
 Hold to speed in Shorts will result in a crash;
 
+The yt home page doesn't load properly/the yt home page's elements don't load properly;
+
 # TO DO LIST:
 
 * Adding smth VERY COOL with future releses........
