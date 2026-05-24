@@ -1,0 +1,11 @@
+Package: com.dvntm.videooverlaytweaks
+Name: VideoOverlayTweaks
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Integrated Video Overlay Tweaks with YouMod features.
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
