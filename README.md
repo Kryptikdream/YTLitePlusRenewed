@@ -21,7 +21,9 @@ YTUHD;
 
 YouPiP;
 
-An adblocker dylib to get rid of the annoying ads!
+An adblocker dylib to get rid of the annoying ads!  
+
+Download Manager (NEW)
 
 Video overlay.
 
@@ -49,7 +51,7 @@ The yt home page doesn't load properly/the yt home page's elements don't load pr
 
 * add an OLED theme.
 
-* add the option to download videos, Shorts and sound.......
+* add the option to download videos, Shorts and sound....... (almost done!)
 
 * Fixing whatever other issues might come down the road!
 
@@ -65,6 +67,8 @@ Please make a github issue if you encounter any kind of issue within using my tw
 # Special Thanks
 
 Special thanks to PoomSmart, dayanch96 and all the devs who created the tweaks i have already implemented and will implement!
+
+Special thanks to daisuke1227 for the download manager!
 
 
 
